@@ -77,10 +77,12 @@ export const TableContainer = styled.section`
 
       &.income {
         color: #12a454;
+        text-align: right;
       }
 
       &.outcome {
         color: #e83f5b;
+        text-align: right;
       }
     }
 
